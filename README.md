@@ -27,8 +27,7 @@ echo 1 > /dev/myled0でON/OFを切り替え、LEDを光らせるという物で�
 ## 参考資料
 ![Screenshot_2022-01-06-12-53-14-63 881](https://user-images.githubusercontent.com/92848929/148341840-8edb8a74-7819-4745-aedd-087691377ba3.png)
 
-・URL→https://www.raspberrypi.org/documentation/usage/gpio/README.md
-
+・URL→https://www.raspberrypi.org/documentation/usage/gpio/README.md (目次 → GPIO and the 40-pin Header)
 ## 実行操作
 1．Ubuntu18.04を立ち上げる
 
